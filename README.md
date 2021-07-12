@@ -1,1 +1,1 @@
-# Cadastro-de-Series
+# Cadastro-de-Series 🎞️
