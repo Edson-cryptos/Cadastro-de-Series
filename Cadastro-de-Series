@@ -1,0 +1,4 @@
+# Cadastro-de-Series
+Este app é um desafio de codigo do bootcamp Fullstack & .Net developer que estou fazendo na Digital Innivation One.
+O mesmo tem como objectivo cadastrar seriados, recebendo a solicitação dos mesmos pelo teclado, e armazena-los segundo
+a sua categoria "romance, drama, historia..." sempre que um usuario requisata-los
