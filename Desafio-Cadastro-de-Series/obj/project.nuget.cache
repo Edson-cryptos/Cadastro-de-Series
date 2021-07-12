@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GlvD+KZ8oisv9JanZ2hRGu2nEEIVDFV5lqANPwo8833clQvZF5spnNZ6Z2K7PcNV8lCZiiqABHm9qEz5zlYA1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Public\\Desafio Cadastro de Series\\4d894e9f-e729-4e13-bd89-21094aec4415\\Cadastro de Series\\DIO.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denise Flora\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Denise Flora\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Denise Flora\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Denise Flora\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.15\\microsoft.netcore.app.host.win-x64.3.1.15.nupkg.sha512"
+  ],
+  "logs": []
+}

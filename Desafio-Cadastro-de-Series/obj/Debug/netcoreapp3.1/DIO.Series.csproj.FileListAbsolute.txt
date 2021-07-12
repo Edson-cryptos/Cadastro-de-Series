@@ -1,0 +1,13 @@
+C:\Users\Public\Desafio Cadastro de Series\4d894e9f-e729-4e13-bd89-21094aec4415\Cadastro de Series\bin\Debug\netcoreapp3.1\DIO.Series.exe
+C:\Users\Public\Desafio Cadastro de Series\4d894e9f-e729-4e13-bd89-21094aec4415\Cadastro de Series\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+C:\Users\Public\Desafio Cadastro de Series\4d894e9f-e729-4e13-bd89-21094aec4415\Cadastro de Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+C:\Users\Public\Desafio Cadastro de Series\4d894e9f-e729-4e13-bd89-21094aec4415\Cadastro de Series\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+C:\Users\Public\Desafio Cadastro de Series\4d894e9f-e729-4e13-bd89-21094aec4415\Cadastro de Series\bin\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\Public\Desafio Cadastro de Series\4d894e9f-e729-4e13-bd89-21094aec4415\Cadastro de Series\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\Public\Desafio Cadastro de Series\4d894e9f-e729-4e13-bd89-21094aec4415\Cadastro de Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\Public\Desafio Cadastro de Series\4d894e9f-e729-4e13-bd89-21094aec4415\Cadastro de Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Public\Desafio Cadastro de Series\4d894e9f-e729-4e13-bd89-21094aec4415\Cadastro de Series\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+C:\Users\Public\Desafio Cadastro de Series\4d894e9f-e729-4e13-bd89-21094aec4415\Cadastro de Series\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Public\Desafio Cadastro de Series\4d894e9f-e729-4e13-bd89-21094aec4415\Cadastro de Series\obj\Debug\netcoreapp3.1\DIO.Series.dll
+C:\Users\Public\Desafio Cadastro de Series\4d894e9f-e729-4e13-bd89-21094aec4415\Cadastro de Series\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+C:\Users\Public\Desafio Cadastro de Series\4d894e9f-e729-4e13-bd89-21094aec4415\Cadastro de Series\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
